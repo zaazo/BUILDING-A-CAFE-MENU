@@ -23,8 +23,8 @@ Click on the link in the footer to visit the cafe's website.
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## Credits
-This project was created as part of a web development tutorial on [FreeCodeCamp](https://www.freecodecamp.org/).
+This project was created as part of a web development tutorial on FreeCodeCamp
 
-FreeCodeCamp - For providing the tutorial and necessary assets.
+[FreeCodeCamp]([url](https://www.freecodecamp.org/)) - For providing the tutorial and necessary assets.
 
 
